@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./tmux-init -s [session-name] -s [repo-subdirectory]
+# Usage: ./tmux-init -s [session-name] -d [repo-subdirectory]
 # if no session name provided, uses "dev" as default
 # if no repo subdirectory provided, uses ~/repos
 
